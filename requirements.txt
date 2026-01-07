@@ -1,2 +1,5 @@
-pycryptodome
+flask
 requests
+pycryptodome
+gunicorn
+urllib3
